@@ -10,4 +10,4 @@ Now, go to the db.h on the Project and go to line 27 and change the path, the ca
 
 Thats It. Have fun with this simple project 
 
-@All rights reserved by Stelios Trimis!!
+©All rights reserved by Stelios Trimis!!
